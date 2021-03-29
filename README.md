@@ -1,2 +1,8 @@
 # Python-
 we can learn this code language
+#sjawgfyusgfwsvjhcvksdvfhwsj
+#dhagsvdsgdjcfjcwedfweusfjwsefdjygwsfjcwdsygwef
+#fedgwasfcfsfvsgfcwsvcwsvgcvghwsdvcw
+#dvwshdfvvswhfcdsvfchdsfvcjhsvjsvdchwevvcwsv vshvcjhwdsjhchvjwvcwjv#
+Ev2jdvqwsavcjasvcjhasvcjavcahjvcjsavcsa
+djwqgscajavjsavcsacjkhasc
