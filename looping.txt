@@ -1,0 +1,4 @@
+# program to looping the string
+ for a = "apple"
+    
+	print("a")
