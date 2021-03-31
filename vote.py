@@ -8,8 +8,12 @@ if (x==46):
 else :
  print("Not eligible")
  print("Bye")
+<<<<<<< HEAD
  print("Thankyou")
 
  #hsydgisdysggcvuchydsvbeureueve
  #ychgvdjcveeuwgcugeyvvyvyhvhwvechvtwdfcywfwgvcwgctycfycfwv
  #tydvxwjegcvjwgcvuwfvcujwvcuw
+=======
+ print("Thankyou")
+>>>>>>> 9985c36 (Added new python files)
