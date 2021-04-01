@@ -1,6 +1,6 @@
 #program to eligible the old age pension
 x= int(input("Enter x value :"))
-if (x==60):
+if (x==50):
  print("this is a required number")
  print("eligible for old age pension")
  print("welocme")
