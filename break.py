@@ -6,7 +6,4 @@ print(m);
 vfgbfgbfg
 hgnr
 ddvzdz
-zdczccadsvjndfvbdfbvjdf
-bdfbdfjbdfbdfb
-bgfjbnkdfjbkdf
-f
+zdczccaf
